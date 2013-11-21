@@ -21,6 +21,19 @@ public class JavaApplication1 {
         JavaApplication1 obj1= new JavaApplication1();
         obj1.num=1;
         
+        obj1.num=1;
+        
+        obj1.num=1;
+        
+        
+        
+        
+        obj1.num=1;
+        
+        obj1.num=1;
+        
+        obj1.num=1;
+        
         
         
     }
